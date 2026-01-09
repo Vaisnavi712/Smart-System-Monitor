@@ -26,7 +26,7 @@ A GUI-based real-time system monitoring application built using Python and Tkint
 ## Use Case
 This application helps users monitor system health in real time and get alerts during high resource usage.
 
-## 👩‍💻 Author
+## Author
 Vaisnavi
 (B.E CSE – 2nd Year)
 
